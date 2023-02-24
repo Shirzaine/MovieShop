@@ -1,2 +1,1 @@
 # MovieShop
-Creating an application 
